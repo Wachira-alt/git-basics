@@ -1,6 +1,6 @@
 #Git Basics
-This is a simple repository for learning git basics
-some of the simple command that learnt so far are:
+This is a simple repository for learning Git basics
+some of the simple commands that learnt so far are:
 `git init`
 `git add`
 `git status`
